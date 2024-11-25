@@ -1,5 +1,6 @@
 # LINK DEL VIDEO: https://drive.google.com/drive/folders/161IYOnifLmQSUMXegF9Yb5PdZ9l0LZkj?usp=sharing
 LINK DEL GOOGLE COLAB: https://colab.research.google.com/drive/1YK_AKAa6cpfmmZJXEgF8DnEt6uH5tG-j
+
 FACULTAD DE INGENIERÍA Y NEGOCIOS
 
 ESCUELA DE INGENIERÍA
